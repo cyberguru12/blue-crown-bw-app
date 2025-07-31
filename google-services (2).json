@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813589339963",
+    "project_id": "bluecrownbw",
+    "storage_bucket": "bluecrownbw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813589339963:android:6c094dc11f4e37dab6211e",
+        "android_client_info": {
+          "package_name": "Blue.Crown.Bw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUKOxivGU2DeBzTtqsFp0FUyF77M0Ips"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
